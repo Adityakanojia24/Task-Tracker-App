@@ -8,7 +8,7 @@ const Button = ({color,text,onClick})=>{
             marginLeft: '9rem',
             fontSize: '15px',
             padding: '15px',
-            backgroundColor: 'Green',
+            backgroundColor: '#86c232',
             color: 'white',
           }}
     className= 'btn'>

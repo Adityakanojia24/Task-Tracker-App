@@ -6,12 +6,14 @@ const Header = ({title,onAdd,showAdd}) => {
     <div className ='header'>
       <h1 
        style={{
-        width:'200px', height:'60px',
+        // width:'200px', 
         marginLeft: '1rem',
-        fontSize: '20px',
-        padding: '15px',
-        backgroundColor: 'salmon',
-        color: 'black',
+        fontSize: '60 px',
+        padding: '10px',
+        height:'60px',
+        // backgroundColor: 'salmon',
+        color: '#86c232',
+        
       }}>
     {title}</h1>
       <Button 
