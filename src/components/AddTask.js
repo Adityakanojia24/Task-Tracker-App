@@ -63,7 +63,7 @@ const AddTask = ({onAdd}) => {
           fontfamily: 'Times New Roman (serif)' ,
           color: '#86c232',
         }}
-        >SetReminder</label>
+        >Set Reminder</label>
         <input
           type="checkbox"
           checked={reminder}
